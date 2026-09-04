@@ -1,5 +1,7 @@
 # EDF3 English Patch Builder
 
+- It patches audio and text from the Vita release onto the Switch release.
+
 <img width="1605" height="895" alt="image" src="https://github.com/user-attachments/assets/5c7ef1be-c438-451a-bcd5-9472c9d0d00f" />
 
 Source code for the Windows application that builds the English LayerFS patch
