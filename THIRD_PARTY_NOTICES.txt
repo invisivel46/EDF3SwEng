@@ -1,0 +1,22 @@
+Third-party components
+======================
+
+This package includes executables used only to read user-supplied source games
+and encode the generated audio:
+
+- hactool: https://github.com/SciresM/hactool (ISC license)
+- psvpfsparser: https://github.com/motoharu-gosuto/psvpfstools
+- VGAudio: https://github.com/Thealexbarney/VGAudio (MIT license)
+- FFmpeg: https://ffmpeg.org/ (the accompanying FFmpeg-LICENSE file applies)
+- Python: https://python.org/ (PSF license in runtime/LICENSE.txt)
+- Pillow: https://python-pillow.org/ (HPND license)
+
+The application itself does not contain ROM images, game encryption keys, or
+prebuilt copyrighted game assets, and it ships no game script, dialogue, or
+localized text. Every English line it writes is read at build time from the
+user's own supported Vita dump; the repository carries only the index maps that
+say which source string belongs in which slot.
+
+The sole exception is a small set of strings that exist on Switch but not on
+Vita (Switch button names, "Reload", the TV-mode option, and similar). English
+for those was written for this project and is the project's own work.
