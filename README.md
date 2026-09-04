@@ -1,6 +1,5 @@
 # EDF3 English Patch Builder
-<img width="1662" height="915" alt="image" src="https://github.com/user-attachments/assets/9d6d826e-3f1d-4272-a6dd-18078eb5626b" />
-<img width="1615" height="889" alt="image" src="https://github.com/user-attachments/assets/bf0e66a2-a2c1-4433-98f8-4155c11e7303" />
+
 
 Source code for the Windows application that builds the English LayerFS patch
 for the Japanese Nintendo Switch release of *Earth Defense Force 3* from the
